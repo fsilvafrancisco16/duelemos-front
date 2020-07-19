@@ -25,9 +25,9 @@ This front-end application is the final interface for bettors to user the plaffo
     - ` sudo n stable `
     
 
-4. install [Angular/CLI]()
+4. install [Angular/CLI](https://cli.angular.io/)
     - ` sudo npm install -g @angular/cli `
-    
+
 
 5. in project root: 
     - ` npm install `
