@@ -30,8 +30,8 @@ This front-end application is the final interface for bettors to user the plaffo
 
 
 5. in project root: 
-    - ` npm install `
-    - `ng serve`
+    - ` sudo npm install `
+    - ` ng serve `
     
 
 6. Navigate to: [http://localhost:4200/](http://localhost:4200/)
